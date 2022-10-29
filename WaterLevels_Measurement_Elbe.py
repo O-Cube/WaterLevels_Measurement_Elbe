@@ -114,6 +114,3 @@ def sendMail(msg):
     return
 
 read_waterlevel()
-
-while 1:
-    pass
